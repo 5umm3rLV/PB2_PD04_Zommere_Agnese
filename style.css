@@ -21,6 +21,12 @@ p {
     font-size: 18px;
 }
 
+ul {
+    background-color: #e8f1f8;
+    padding: 20px 35px;
+    margin: 20px 0;
+}
+
 li {
-    margin-bottom: 8px;
+    margin-bottom: 10px;
 }

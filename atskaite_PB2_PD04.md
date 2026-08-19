@@ -61,12 +61,16 @@ Lapas kļuva vienmērīgāk noformētas, pārskatāmas un vieglāk salasāmas.
 
 ---
 
-### 4.2 Uzdevums 2
+### 4.3 Uzdevums 03 – Virsrakstu noformēšana
 
 - Ko darīju:
+Noformēju Solar Cargo lapu virsrakstus h1 un h2 ar CSS.
+
 - Kā realizēju:
+Mainīju virsrakstu teksta krāsu un iestatīju attālumu zem tiem, izmantojot color un margin-bottom.
+
 - Rezultāts:
-- Ekrānšāviņš:
+Virsraksti kļuva vizuāli izteiksmīgāki un lapa kļuva pārskatāmāka.
 
 ---
 
