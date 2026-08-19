@@ -35,21 +35,29 @@ Apraksti katra uzdevuma izpildi.
 
 ---
 
-### 4.1 Uzdevums 1
+### 4.1 Uzdevums 01 – CSS faila izveide
 
 - Ko darīju:
+Izveidoju style.css failu Solar Cargo sistēmas lapu vizuālajam noformējumam.
+
 - Kā realizēju:
+CSS failā definēju body, h1, h2, p un li elementu noformējumu. Pēc tam pieslēdzu style.css visām trim HTML lapām: index.html, konteineri.html un statistika.html.
+
 - Rezultāts:
-- Ekrānšāviņš (ja nepieciešams):
+Visām trim HTML lapām ir vienots vizuālais noformējums, un CSS noteikumi tiek izmantoti no atsevišķa style.css faila.
 
 ---
 
-### 4.2 Uzdevums 2
+### 4.2 Uzdevums 02 – Lapas pamata noformējums
 
 - Ko darīju:
+Noformēju visu Solar Cargo HTML lapu, izmantojot CSS body elementam.
+
 - Kā realizēju:
+Iestatīju Arial fontu, gaiši pelēku fona krāsu un tumši pelēku teksta krāsu.
+
 - Rezultāts:
-- Ekrānšāviņš:
+Lapas kļuva vienmērīgāk noformētas, pārskatāmas un vieglāk salasāmas.
 
 ---
 

@@ -7,10 +7,14 @@ body {
 
 h1 {
     font-size: 32px;
+    color: #1f4e79;
+    margin-bottom: 20px;
 }
 
 h2 {
     font-size: 24px;
+    color: #2f6690;
+    margin-bottom: 15px;
 }
 
 p {
